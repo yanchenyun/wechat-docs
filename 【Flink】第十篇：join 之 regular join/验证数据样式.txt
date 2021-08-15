@@ -1,6 +1,6 @@
 upsert-kafka验证数据样式：
 {"appl_seq":"1"}	{"appl_seq":"1","op_ts":"1970-01-01 00:00:00","amount":100}
-
+ 
 
 json-kafka验证数据样式：
 {"appl_seq":"1","op_ts":"1970-01-01 00:00:00","amount":100}
